@@ -79,5 +79,5 @@ module.exports = {
   getBlogById,
   createBlog,
   updateBlog,
-  deleteBlog,
+  deleteBlog,  
 };
